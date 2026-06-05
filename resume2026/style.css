@@ -525,6 +525,26 @@ body {
   color: #4b5563;
 }
 
+/* 미디어쿼리 */
+/* Large 1280 이상 큰화면용 */
+@media (min-width: 1280px) {
+  .resume {
+    width: 1100px;
+  }
+
+  .sidebar {
+    padding: 52px 42px;
+  }
+
+  .main-content {
+    padding: 64px 80px;
+  }
+
+  .intro h1 {
+    font-size: 60px;
+  }
+}
+
 /* Tablet 900px 이하 */
 @media (max-width: 900px) {
   .resume {
