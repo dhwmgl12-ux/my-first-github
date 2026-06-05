@@ -33,7 +33,6 @@ https://dhwmgl12-ux.github.io/my-first-github/resume2026/
 | 디자인 도구 | Canva, Fiqma, |
 
 
-
 ---
 
 
@@ -140,16 +139,20 @@ CSS만으로 섹션과 스킬 태그에 가벼운 hover 애니메이션을 적�
 
 ---
 
-🛠 사용 기술
--HTML(뼈대),
--CSS(grid,flex,media query, hover animation),
--GitHub(터미널을 활용한 git add . , git commit -m "" , git push origin HEAD or main / 원격저장소 배포),
--Fiqma,
--Canva,
+## 🛠 사용 기술
+
+| 구분 | 내용 |
+|---|---|
+| 구조 | HTML |
+| 스타일 | CSS |
+| 레이아웃 | Grid, Flexbox |
+| 반응형 | Media Query |
+| 인터랙션 | Hover Animation |
+| 버전 관리 | Git / GitHub |
+| 배포 | GitHub Pages |
+| 디자인 도구 | Figma, Canva |
 
 ---
-
-
 
 
 ## 🔧 앞으로 개선할 점
@@ -163,10 +166,10 @@ CSS만으로 섹션과 스킬 태그에 가벼운 hover 애니메이션을 적�
 ## 현재는 HTML과 CSS 중심으로 구현했습니다.
 JavaScript를 학습한 뒤에는 다음 기능을 추가해보고 싶습니다.
 
--섹션 접기/펼치기
--다크모드 전환
--프로젝트 카드 필터
--스크롤 애니메이션
+- 섹션 접기/펼치기
+- 다크모드 전환
+- 프로젝트 카드 필터
+- 스크롤 애니메이션
 
 
 ---
