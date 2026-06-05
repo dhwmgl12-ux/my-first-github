@@ -141,11 +141,11 @@ CSS만으로 섹션과 스킬 태그에 가벼운 hover 애니메이션을 적�
 ---
 
 🛠 사용 기술
--HTML(뼈대)
--CSS(grid,flex,media query, hover animation)
--GitHub(터미널을 활용한 git add . , git commit -m "" , git push origin HEAD or main / 원격저장소 배포)
--Fiqma
--Canva
+-HTML(뼈대),
+-CSS(grid,flex,media query, hover animation),
+-GitHub(터미널을 활용한 git add . , git commit -m "" , git push origin HEAD or main / 원격저장소 배포),
+-Fiqma,
+-Canva,
 
 ---
 
